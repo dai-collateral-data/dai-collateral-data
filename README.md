@@ -2,7 +2,7 @@ This repository contains the code and data for the paper "Collateral Portfolio O
 
 The repository consists of the following folders:
 - join_logs: the vault event log data needed to plot the historical evolution of Dai collateral
-- price_data_<source>: the price data for the various collateral types
+- price_data (3 folders): the price data for the various collateral types
 - src: the code (Java) for the processing of the historical data
 - output: the tables that were created after running the code
 - python_notebooks: the Python notebooks that were used to generate the efficient frontier and to perform the simulations
